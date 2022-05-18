@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+#head{
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-image: url(https://www.zastavki.com/pictures/originals/2015/Backgrounds_Masks_Payday_2__background_flag_108893_.png)
+    }
+h1 {
+color: white;
+font: 40px Georgia;
+margin-left: 750px;
+margin-top:200px ;
+}
+.topna {
+    overflow: hidden;
+    margin-left: 200px;
+    margin-top: 80px;
+}
+.topna a {
+    float: left;
+    padding: 20px 32px;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    font: 20px Georgia;
+    margin-left: 190px;
+    font-weight: bold;
+}
+.topna a:hover {
+    color: red;
+}

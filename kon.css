@@ -1,0 +1,47 @@
+.video{
+    position: relative;
+    z-index: 1;
+    padding-bottom: 56.25%;
+}
+.video-media{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.intro{
+    position: relative;
+    max-height: 100vh;
+    overflow: hidden;
+}
+.intro:after{
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    background-color: rgba(0, 0, 0, .5);
+    width: 100%;
+    height: 100%;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 3;
+    width: 100%;
+    height: 100%;
+}
+.container{
+    max-height: 900px;
+    margin: 0 auto;
+}
+.intro-title{
+    font-size: 45px;
+    color: white;
+    margin: 0;
+    text-align: center;
+}
