@@ -1,0 +1,23 @@
+body{
+    background: url(https://funart.pro/uploads/posts/2021-04/1618532922_3-funart_pro-p-oboi-fon-anime-fon-nebo-3.jpg) no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+p {
+color: black;
+font: 20px Georgia;
+margin-left: 400px;
+margin-right: 400px;
+}
+img{
+  margin-left: 400px
+}
+h2{
+    color: black;
+  margin-left: 400px
+}
+a {
+color: black;
+font: 40px Georgia;
+margin-left: 200px;
+}

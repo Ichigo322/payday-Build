@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+p {
+color: white;
+font: 20px Georgia;
+margin-left: 600px;
+margin-right: 500px;
+}
+img{
+  margin-left: 600px
+}
+h2{
+	color: red;
+  margin-left: 600px;
+}
+h1{
+	color: white;
+}

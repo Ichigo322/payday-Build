@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+#he{
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-image: url(https://img2.akspic.ru/crops/8/7/8/8/4/148878/148878-kostyum-figurka-temnota-komanda-the_crew-1920x1080.jpg)
+}
+a[target="p"]{
+color: white;
+font: 40px Georgia;
+position:absolute;left: 700px; top:190px; 
+}
+a[target="v"]{
+color: white;
+font: 40px Georgia;
+position:absolute;left: 1330px; top:300px; 
+}
+a[target="s"]{
+color: white;
+font: 40px Georgia;
+position:absolute;left: 350px; top:0px; 
+}
+a[target="x"]{
+color: white;
+font: 40px Georgia;
+position:absolute;left: 1045px; top:25px; 
+}
+a[target="u"]{
+color: white;
+font: 40px Georgia;
+position:absolute;left: 75px; top:180px; 
+}
+a{
+color: white;
+font: 40px Georgia;
+margin-left: 200px;
+}

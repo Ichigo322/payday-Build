@@ -1,0 +1,27 @@
+body{
+    background: url(https://krot.info/uploads/posts/2020-01/1579418974_1-2.jpg) no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+p {
+color: white;
+font: 20px Georgia;
+margin-left: 400px;
+margin-right: 400px;
+}
+img{
+  margin-left: 400px
+}
+h1{
+    color: white;
+  margin-left: 800px
+}
+h2{
+    color: white;
+  margin-left: 400px
+}
+a {
+color: white;
+font: 40px Georgia;
+margin-left: 200px;
+}
